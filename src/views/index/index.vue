@@ -1,17 +1,10 @@
 <template>
-  <div>
-    <main-back></main-back>
-  </div>
+  <div></div>
 </template>
 
 <script>
-  import mainBack from '@/components/mainBack'
-
   export default {
-    name: "index",
-    components: {
-      mainBack
-    }
+    name: "index"
   }
 </script>
 
